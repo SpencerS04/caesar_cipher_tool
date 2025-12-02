@@ -1,6 +1,6 @@
 import argparse
 import random
-from .caesar_cipher import encrypt, decrypt
+from caesar_cipher import encrypt, decrypt
 
 def main():
     parser = argparse.ArgumentParser(
