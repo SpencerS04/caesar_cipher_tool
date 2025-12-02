@@ -11,8 +11,8 @@ The Caesar Cipher is a basic encryption algorithm where each letter in a message
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SpencerS04/caesar_cipher_decryptor.git
-    cd caesar_cipher_decryptor
+   git clone https://github.com/SpencerS04/caesar_cipher_tool.git
+    cd caesar_cipher_tool
    ```
 
 2. Run the script using Python:
@@ -35,5 +35,5 @@ src/
     cli.py         # command-line interface
 tests/
   test_cipher.py   # basic roundtrip tests
-README.md          # this file
+README.md
 ```
